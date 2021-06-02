@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="elzekr">الذِكر</string>
+    <string name="set_zekr">ادخل الذِكر</string>
+    <string name="reset">Reset</string>
+    <string name="delete">مسح</string>
+    <string name="_0">0</string>
+    <string name="ok">تم</string>
+</resources>
